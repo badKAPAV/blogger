@@ -10,7 +10,7 @@ A **Flutter-powered blog reader** that fetches articles from an API and presents
 ✅ **Smooth & Intuitive UI** – Designed for an engaging, minimalistic reading experience.  
 ✅ **Pull-to-Refresh** – Refresh blog content effortlessly to discover new articles.  
 
-![App Screenshot](https://github.com/user-attachments/assets/10d4f5a1-a5a3-4705-9f1c-ccc411b45d2c)
+https://github.com/user-attachments/assets/10d4f5a1-a5a3-4705-9f1c-ccc411b45d2c
 
 ---
 
