@@ -66,7 +66,7 @@ flutter run
 
 ## 📩 Contact
 Have questions or suggestions? Feel free to reach out!  
-📧 Email: [avigyandas123@gmail.com](mailto:avigyandas123@gmail.com?subject=[GitHub]%20Source%20Avigyan%20Das)
+📧 Email: [kapav.dev@gmail.com](mailto:kapav.dev@gmail.com?subject=[GitHub]%20Source%20Kapav%20Dev)
 
 ---
 
